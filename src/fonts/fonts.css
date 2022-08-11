@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "pretendard";
+    src: local("pretendard"),url('Pretendard-Light.otf') format('opentype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: "pretendard";
+    src: local("pretendard"),url('Pretendard-Regular.otf') format('opentype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: "pretendard";
+    src: local("pretendard"),url('Pretendard-SemiBold.otf') format('opentype');
+    font-weight: 700;
+}
+@font-face {
+    font-family: "pretendard";
+    src: local("pretendard"),url('Pretendard-ExtraBold.otf') format('opentype');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "roboto";
+    src: local("roboto"),url('Roboto-Light.ttf') format('opentype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: "roboto";
+    src: local("roboto"),url('Roboto-Regular.ttf') format('opentype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: "roboto";
+    src: local("roboto"),url('Roboto-Medium.ttf') format('opentype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: "roboto";
+    src: local("roboto"),url('Roboto-Bold.ttf') format('opentype');
+    font-weight: 800;
+}
